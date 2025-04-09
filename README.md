@@ -22,8 +22,8 @@ Show off your personal style with the diverse character customization system in 
 
 Join the large Geometry Dash community around the world, where you can share your achievements, discover new levels created by other players, and even compete on global leaderboards. Connect with like-minded people and conquer the toughest challenges together.
 
-**Play And Start the Adventure!
-**
+**Play And Start the Adventure!**
+
 Geometry Dash puts your focus and reflexes to the test. With addictive gameplay, captivating music, and tons of content to explore, this is definitely a game you can't miss. Download Geometry Dash now and start your adventure through the colorful rhythmic geometry world today!
 
 ------------------------------------------------------------------------------------------------------------------
