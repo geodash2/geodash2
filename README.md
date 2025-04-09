@@ -28,5 +28,5 @@ Geometry Dash puts your focus and reflexes to the test. With addictive gameplay,
 
 ------------------------------------------------------------------------------------------------------------------
 website: https://geometrydash2.com/
-Address: D'Agostino 110 W 3rd St, New York, NY 10012, USA
-Phone: +19396427683
+
+Address: D'Agostino 110 W 3rd St, New York, NY 10012, USAPhone: +19396427683
